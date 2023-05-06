@@ -1,4 +1,4 @@
-module github.com/arithmetic
+module github.com/ganesh-k17/go-arithimetic
 
 go 1.16
 

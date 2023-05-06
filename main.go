@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/arithmetic/addition"
+	"github.com/ganesh-k17/go-arithimetic/addition"
 	"github.com/pborman/uuid"
 )
 
